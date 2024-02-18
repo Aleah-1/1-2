@@ -1,0 +1,4 @@
+Display "enter value"
+Read input_value
+Result= input_value * 10
+Display "Result:", result
